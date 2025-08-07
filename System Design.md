@@ -175,5 +175,3 @@ This roadmap is structured into **5 stages**, each with:
 * A multi-region failover infrastructure
 
 ---
-
-Would you like this roadmap as a downloadable **Markdown**, **PDF**, or **Notion template**?
